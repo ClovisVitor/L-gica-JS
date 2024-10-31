@@ -1,2 +1,3 @@
-# L-gica-JS
-lógica de programação em JavaScript
+# Logica-JS
+
+Lógica de programação praticada no curso Start 
